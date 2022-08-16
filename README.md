@@ -20,7 +20,7 @@ The neural network I designed for this project has 2 levels (or 3 layers).
     
    
   
-  x        x        x        x        x        x      <---------------- 6 nodes taking as inputs the readings from the sensor in the Layer1 and                                                                                   multiplying the values with randomized weights (randomized between certain values)
+          x    x    x    x    x    x      <---------------- 6 nodes taking as inputs the readings from the sensor in the Layer1 and                                                                                   multiplying the values with randomized weights (randomized between certain values)
    
     
                                                         LEVEL 0
